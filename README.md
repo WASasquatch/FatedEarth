@@ -1,5 +1,6 @@
 # FATED EARTH
-## A post-apocalyptic survival mod for Spigot Minecraft Servers
+***
+**A post-apocalyptic survival mod for Spigot Minecraft Servers**
 
 
 ### Project
