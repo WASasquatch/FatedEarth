@@ -1,0 +1,12 @@
+name: FatedEarth	
+main: wa.was.FatedEarth.FatedEarth
+depends: [ActionBarAPI]
+version: 0.2.3
+commands:
+permissions:
+    fatedearth.radiation:
+        description: Allows radiation effects
+        default: true
+    fatedearth.radiation.deny:
+        description: Prevents radiation effects
+        default: false

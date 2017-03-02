@@ -1,0 +1,33 @@
+player-messages: true
+sunproof-zombies: true
+sunproof-skeletons: true
+sunproof-pigmen: true
+solar-radiation: true
+toxic-rain: true
+toxic-water: true
+no-radiation-death: false
+use-geiger-counter-item: true
+max-radiation-level: 255
+radiation-threshold: 150
+radiation-damage: 1.5
+geiger-item: COMPASS
+solar-radiation-risk:
+ - world
+radiation-suit:
+ - GOLD_HELMET
+ - GOLD_CHESTPLATE
+ - GOLD_LEGGINGS
+ - GOLD_BOOTS
+ - DIAMOND_HELMET
+ - DIAMOND_CHESTPLATE
+ - DIAMOND_LEGGINGS
+ - DIAMOND_BOOTS
+irradiated-blocks:
+ - IRON_BLOCK
+ - GOLD_BLOCK
+ - IRON_ORE
+ - GOLD_ORE
+ - IRON_DOOR
+ - IRON_FENCE
+ - IRON_PLATE
+ - GOLD_PLATE
